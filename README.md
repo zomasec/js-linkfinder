@@ -1,2 +1,2 @@
 # js-linkfinder
-JavaScript Extention
+JavaScript Extension
